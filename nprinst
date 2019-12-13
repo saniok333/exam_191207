@@ -1,0 +1,5 @@
+npm init
+npm i --save-dev gulp
+npm i --save-dev gulp-sass
+npm install --save-dev gulp-autoprefixer
+npm install --save-dev gulp-cssbeautify
